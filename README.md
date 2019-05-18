@@ -50,7 +50,7 @@ The Solar System Simulator was designed with two goals in mind.
 
 ## Support and contact details
 
-_Email travisty12@gmail.com, rmclean@gmail.com, robbiekruszynski@gmail.com or with any questions._
+_Email robbiekruszynski@gmail.com, travisty12@gmail.com, rmclean@gmail.com, with any questions._
 
 ## License
 
